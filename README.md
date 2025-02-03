@@ -26,5 +26,5 @@ A social platform where users share their insecurities, find others with similar
 - 🚀 Why It’s a Great ASAP Project?
 - ✅ Fulfills ASAP Guidelines – Covers full-stack development (React, Node.js, MongoDB, Express).
 - ✅ Engages Users – Encourages real conversations and content creation.
-- ✅ Unique & Fun – Turns insecurities into bonding opportunities.
+
 
