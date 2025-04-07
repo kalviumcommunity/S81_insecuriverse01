@@ -1,0 +1,4 @@
+name = "insecuriverse-frontend"
+type = "javascript"
+account_id = "99240041377@klu.ac.in"
+workers_dev = true
