@@ -1,0 +1,15 @@
+name = "backend-worker"
+
+account_id = "c8608e6516ddd03fa2e714a43f06c9cb"
+workers_dev = true
+
+compatibility_date = "2025-04-07"
+
+# Specify the entry point to the Worker script
+main = "server.js"
+
+# Uncomment the following if deploying assets
+# [assets]
+# directory = "./dist"
+
+

@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
 const groupSchema = new mongoose.Schema({
     name: { type: String, required: true },
@@ -6,4 +6,4 @@ const groupSchema = new mongoose.Schema({
     members: [{ type: mongoose.Schema.Types.ObjectId, ref: "User" }],
 }, { timestamps: true });
 
-module.exports = mongoose.model("Group", groupSchema);
+export default mongoose.model("Group", groupSchema);
